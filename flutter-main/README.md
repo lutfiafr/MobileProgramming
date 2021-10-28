@@ -1,7 +1,6 @@
 1. Membuat aplikasi flutter pemula
 
 edit lib/main.dart , tempat kode Dart berada.
-
 Ganti isi lib/main.dart.
 Hapus semua kode dari lib/main.dart . Ganti dengan kode berikut, yang menampilkan "Hello World" di tengah layar.
 
